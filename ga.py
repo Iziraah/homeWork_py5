@@ -1,9 +1,9 @@
-import random
 
 
-print('на столе 101 конфет, сколько возьмешь?')
+
+print('на столе 2021 конфет, сколько возьмешь?')
 #x = int.input()
-all = 100
+all = 2021
 
 def sweet(all):
     if all != 0:
